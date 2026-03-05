@@ -1,4 +1,4 @@
-# Par ou ímpar
+# Par ou ímpar 
 ## Objetivo
 O objetivo desse **projeto** era criar um **programa** para informar se um número inteiro escolhido pelo usuario é **par ou ímpar**.
 
@@ -50,7 +50,7 @@ inteiro numero
 
 ```
 ---
-# Maior de Dois
+# Maior de Dois 
 ## Objetivo
 O objetivo desse **projeto** era criar um **programa** para ler dois números inteiros e no final comparar os dois e mostrar se é maior ou igual.
 
